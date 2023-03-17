@@ -1,4 +1,5 @@
 .list {
     font-size: large;
     color: blue;
+    list-style-type: square;
 }
