@@ -1,5 +1,5 @@
 .list {
-    font-size: large;
-    color: blue;
-    list-style-type: square;
-}
+    font-size: 2rem;
+    color: black;
+    list-style-type: circle;
+  }
