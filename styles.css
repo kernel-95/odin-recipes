@@ -1,5 +1,5 @@
-list {
+ul {
     font-size: 2rem;
     color: black;
-    list-style-type: square;
+    list-style-type: circle;
 }
