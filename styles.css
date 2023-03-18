@@ -1,4 +1,14 @@
-ul li {
-    font-size: 2rem;
-    color: green !important;
-}
+ol {
+    background: #ff9999;
+    padding: 20px;
+  }
+  
+  ol li {
+    font-size: 1rem;
+    color: white
+  }
+  
+  ul li {
+    font-size: 1rem;
+    color: green;
+  }
